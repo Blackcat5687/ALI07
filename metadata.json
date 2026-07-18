@@ -1,0 +1,6 @@
+{
+  "name": "English Talk",
+  "description": "تعلم الإنجليزية من خلال حوارات صوتية ومصحح نطق ذكي مدعوم بالذكاء الاصطناعي Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,3 @@
+## This file is an example of local configurations.
+## Copy this file to 'local.properties' and set the SDK path if not automatically detected.
+# sdk.dir=/Users/username/Library/Android/sdk
